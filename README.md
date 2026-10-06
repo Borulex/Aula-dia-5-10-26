@@ -7,7 +7,7 @@
 * **Disciplina:** [Ciência da Computação]
 ---
 ## Tabela de Exercícios e Comprovações
-| Nº | Nome do Desafio / Lição | Breve Explicação | Status na Plataforma
+| Nº | Nome do Desafio / Lição | Breve Explicação | Status na Plataforma |
 | Imagem Comprobatória |
 | :---: | :--- | :--- | :---: | :---: |
 | 01 | [Beecrowd 1000 Hello World!] | [Aprendendo como printar "Hello World!"]
@@ -28,4 +28,5 @@ Estruturas de código básicas em C++
 Interpretação
 * Quais estruturas foram mais utilizadas? (Ex: `if/else`, laços
 `for/while`, tags `<div>`, comandos `SELECT`)
+
 printf, scanf, "+", "*".
