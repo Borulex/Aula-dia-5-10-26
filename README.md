@@ -10,8 +10,8 @@
 | Nº | Nome do Desafio / Lição | Breve Explicação | Status na Plataforma
 | Imagem Comprobatória |
 | :---: | :--- | :--- | :---: | :---: |
-| 01 | [Beecrowd 1000 Hello World!] | [Aprendendo como printar "Hello World!"] | Aprovado | [Ver
-Imagem](./prints/print_01.png) |
+| 01 | [Beecrowd 1000 Hello World!] | [Aprendendo como printar "Hello World!"]
+| Aprovado | [Ver Imagem](./prints/print_01.png) |
 | 02 | [Beecrowd 1001 Extremamente Básico] | [Soma em C++]
 | Aprovado | [Ver Imagem](./prints/print_02.png) |
 | 03 | [Beecrowd 1003 Soma Simples] | [Soma simples em C++]
